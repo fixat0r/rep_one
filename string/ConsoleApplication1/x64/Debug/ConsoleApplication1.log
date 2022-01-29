@@ -1,0 +1,2 @@
+﻿  ConsoleApplication1.cpp
+E:\program\Visual Studio\Studio\VC\Tools\MSVC\14.30.30705\include\yvals.h(12,10): fatal error C1083: Не удается открыть файл включение: crtdbg.h: No such file or directory,
